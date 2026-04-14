@@ -1,0 +1,88 @@
+Welcome to the ad island information report.
+This report was created on 2026-03-26.
+Airing on all stations.
+
+--------------------
+Sponsor Name: Everyday ad
+Contract Start/End Date: 2026-01-01 / 2027-01-01
+Contract length: 52 weeks and 1 days.
+Remaining: 40 weeks and 1 days.
+Ad space:
+(S: 4) (M: 4) (T: 4) (W: 4) (T: 4) (F: 4) (S: 4)
+--------------------
+Airing on all stations.
+
+--------------------
+Sponsor Name: Weekend ad
+Contract Start/End Date: 2026-03-19 / 2027-03-21
+Contract length: 52 weeks and 3 days.
+Remaining: 51 weeks and 3 days.
+Ad space:
+(S: 1) (M: 0) (T: 0) (W: 0) (T: 0) (F: 0) (S: 1)
+--------------------
+Airing in CITA.
+
+--------------------
+Sponsor Name: Local Church PSA
+Contract Start/End Date: 2026-03-24 / 2026-03-27
+Contract length: 0 weeks and 3 days.
+Remaining: 0 weeks and 1 days.
+Ad space:
+(S: 0) (M: 0) (T: 1) (W: 1) (T: 1) (F: 1) (S: 0)
+--------------------
+Airing in CIOG.
+
+--------------------
+Sponsor Name: Coffee 1
+Contract Start/End Date: 2026-02-20 / 2026-05-01
+Contract length: 10 weeks and 0 days.
+Remaining: 5 weeks and 1 days.
+Ad space:
+(S: 3) (M: 4) (T: 1) (W: 1) (T: 1) (F: 4) (S: 3)
+--------------------
+Airing in CIOG.
+Airing in CJLU.
+
+--------------------
+Sponsor Name: Coffee 2
+Contract Start/End Date: 2026-02-21 / 2026-05-01
+Contract length: 9 weeks and 6 days.
+Remaining: 5 weeks and 1 days.
+Ad space:
+(S: 1) (M: 1) (T: 1) (W: 8) (T: 1) (F: 1) (S: 4)
+--------------------
+Airing in CITA.
+
+--------------------
+Sponsor Name: Accounting firm
+Contract Start/End Date: 2026-03-26 / 2026-09-01
+Contract length: 22 weeks and 5 days.
+Remaining: 22 weeks and 5 days.
+Ad space:
+(S: 4) (M: 4) (T: 4) (W: 4) (T: 4) (F: 4) (S: 4)
+--------------------
+Airing in CJLU.
+
+--------------------
+Sponsor Name: Halifax ad
+Contract Start/End Date: 2026-03-25 / 2026-04-25
+Contract length: 4 weeks and 3 days.
+Remaining: 4 weeks and 2 days.
+Ad space:
+(S: 2) (M: 2) (T: 2) (W: 2) (T: 2) (F: 2) (S: 2)
+--------------------
+
+********************
+Now calculating ad space...
+Total CITA space: (50, 25, 40, 35, 40, 60, 65)
+Used CITA space: [9, 8, 9, 9, 9, 9, 9]
+Available CITA space: [41, 17, 31, 26, 31, 51, 56]
+
+Total CIOG space: (50, 25, 40, 35, 40, 60, 65)
+Used CIOG space: [9, 9, 6, 13, 6, 9, 12]
+Available CIOG space: [41, 16, 34, 22, 34, 51, 53]
+
+Total CJLU space: (50, 25, 40, 35, 40, 60, 65)
+Used CJLU space: [8, 7, 7, 14, 7, 7, 11]
+Available CJLU space: [42, 18, 33, 21, 33, 53, 54]
+********************

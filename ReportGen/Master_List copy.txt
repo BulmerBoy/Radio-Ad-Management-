@@ -1,0 +1,34 @@
+# Please do not add any comments below the DATA BEGINS line. The program intends to 
+# read the last line as the remaining ad inventory and will be screwed up if it detects
+# any text under that.
+#
+# Additionally, ensure there is no empty lines beneath the DATA BEGINS line. The 
+# program will still interpret empty lines as a real line and *NOT* as EOF, and will
+# get an index out of range error.
+#
+# The format template is below. 
+# SPONSOR NAME: Anything can go in here, so long as it is all before the '|' char.
+# DATE START AND END: make sure it follows the exact format (YYYY-MM-DD).
+# WEEKLY SCHEDULE: this is an integer that must be exactly 7 characters, one for
+#                  each day of the week, representing the number of instances this
+#                  ad is supposed to play on air that day. the order starts with
+#                  Monday and ends with Sunday. Because of this, any ad is 
+#                  limited to being recorded to play only 9 times for a given
+#                  day. (at least for now.)
+# STATION: What station(s) the contract plays on.
+# -------------------------------------------------------------------------------------
+# SPONSOR NAME | DATE START (YYYY-MM-DD) | DATE END (YYYY-MM-DD) | WEEKLY SCHEDLUE | STATION 
+# ------------------------------------------------------------------------------------- 
+#
+# DATA BEGINS
+Everyday ad | 2026-01-01 | 2027-01-01 | 4444444 | ALL
+Weekend ad | 2026-03-19 | 2027-03-21 | 1000001 | CITA & CJLU & CIOG
+Christmas 2026 Sponsor | 2026-11-01 | 2026-12-26 | 3111112 | CJLU
+Christmas 2025 Sponsor | 2025-11-01 | 2025-12-26 | 3111112 | CIOG
+Local Church PSA | 2026-03-24 | 2026-03-27 | 0011110 | CITA
+Coffee 1 | 2026-02-20 | 2026-05-01 | 3411143 | CIOG
+Coffee 2 | 2026-02-21 | 2026-05-01 | 1118114 | CIOG & CJLU
+Accounting firm | 2026-03-26 | 2026-09-01 | 4444444 | CJLU & CITA
+Car Dealership Summer Sale | 2026-06-01 | 2026-09-01 | 4444444 | CIOG & CITA
+Inspire event | 2026-08-15 | 2026-10-15 | 1111111 | ALL
+Halifax ad | 2026-03-25 | 2026-04-25 | 2222222 | CJLU

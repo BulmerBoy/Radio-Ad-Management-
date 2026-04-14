@@ -1,0 +1,91 @@
+Welcome to the ad island information report.
+This report was created on Thursday, 2026-04-02.
+Now showing current commercials and ads playing...
+
+--------------------
+Sponsor Name: Everyday ad
+Contract Start/End Date: 2026-01-01 / 2027-01-01
+Contract length: 52 weeks and 1 days.
+Remaining: 39 weeks and 1 days.
+Ad space requested:
+(Mon: 4) (Tue: 4) (Wed: 4) (Thu: 4) (Fri: 4) (Sat: 4) (Sun: 4)
+Airing on all stations.
+--------------------
+
+--------------------
+Sponsor Name: Test ad 1
+Contract Start/End Date: 2026-04-01 / 2026-04-02
+Contract length: 0 weeks and 1 days.
+Remaining: 0 weeks and 0 days.
+Ad space requested:
+(Mon: 5) (Tue: 5) (Wed: 5) (Thu: 5) (Fri: 5) (Sat: 5) (Sun: 5)
+Airing in CITA.
+Airing in CJLU.
+--------------------
+
+--------------------
+Sponsor Name: Test ad 2
+Contract Start/End Date: 2026-04-01 / 2026-04-03
+Contract length: 0 weeks and 2 days.
+Remaining: 0 weeks and 1 days.
+Ad space requested:
+(Mon: 5) (Tue: 5) (Wed: 5) (Thu: 5) (Fri: 5) (Sat: 5) (Sun: 5)
+Airing in CITA.
+--------------------
+
+--------------------
+Sponsor Name: Test ad 3
+Contract Start/End Date: 2026-04-01 / 2026-04-04
+Contract length: 0 weeks and 3 days.
+Remaining: 0 weeks and 2 days.
+Ad space requested:
+(Mon: 5) (Tue: 5) (Wed: 5) (Thu: 5) (Fri: 5) (Sat: 5) (Sun: 5)
+Airing in CITA.
+Airing in CIOG.
+--------------------
+
+--------------------
+Sponsor Name: Test ad 4
+Contract Start/End Date: 2026-04-01 / 2026-04-05
+Contract length: 0 weeks and 4 days.
+Remaining: 0 weeks and 3 days.
+Ad space requested:
+(Mon: 5) (Tue: 5) (Wed: 5) (Thu: 5) (Fri: 5) (Sat: 5) (Sun: 5)
+Airing in CITA.
+Airing in CJLU.
+--------------------
+
+--------------------
+Sponsor Name: Test ad 5
+Contract Start/End Date: 2026-04-01 / 2026-04-06
+Contract length: 0 weeks and 5 days.
+Remaining: 0 weeks and 4 days.
+Ad space requested:
+(Mon: 5) (Tue: 5) (Wed: 5) (Thu: 5) (Fri: 5) (Sat: 5) (Sun: 5)
+Airing in CITA.
+--------------------
+
+--------------------
+Sponsor Name: Test ad 6
+Contract Start/End Date: 2026-04-01 / 2026-04-07
+Contract length: 0 weeks and 6 days.
+Remaining: 0 weeks and 5 days.
+Ad space requested:
+(Mon: 5) (Tue: 5) (Wed: 5) (Thu: 5) (Fri: 5) (Sat: 5) (Sun: 5)
+Airing in CJLU.
+--------------------
+
+********************
+NOW CALCULATING AD SPACE...
+Total CITA space: (72, 72, 72, 72, 72, 65, 45)
+Used CITA space: [9, 4, 4, 29, 24, 19, 14]
+Available CITA space: [63, 68, 68, 43, 48, 46, 31]
+
+Total CIOG space: (66, 66, 66, 66, 66, 50, 40)
+Used CIOG space: [4, 4, 4, 9, 9, 9, 4]
+Available CIOG space: [62, 62, 62, 57, 57, 41, 36]
+
+Total CJLU space: (78, 78, 78, 78, 78, 60, 65)
+Used CJLU space: [9, 9, 4, 19, 14, 14, 14]
+Available CJLU space: [69, 69, 74, 59, 64, 46, 51]
+********************
